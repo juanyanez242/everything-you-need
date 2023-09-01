@@ -2,7 +2,7 @@
 # Changelog
 # DB relacional
 
-## [1.1] - 2023-17-08
+## [1.1] - 2023-08-17
 
 ### Added
 -Conexicion de la DB con la pagina 
@@ -31,7 +31,7 @@
 -Image
 
 
-## [1.2] - 2023-01-09
+## [1.2] - 2023-09-01
 
 ### Added
 -Users
