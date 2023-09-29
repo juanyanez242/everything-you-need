@@ -10,12 +10,10 @@
 -Resgitro de categorias con la DB
 -Registro de Login con la DB
 -Registro de super users
-
 ### Fixed
 -Carrito de compra
 -Metodos de pago
 -Registro de compra
-
 ### Changed
 -XAMPP
 -MYSQLS
@@ -39,12 +37,10 @@
 -Productos
 -Carrito de compra
 -Listado y filtros
-
 ### Fixed
 -Carrito de compra
 -Metodos de pago
 -Registro de compra
-
 ### Changed
 -XAMPP
 -MYSQLS
@@ -58,6 +54,50 @@
 -Configurar Categorias
 -Configurar Users
 -Configurar Image
+
+
+## [1.2] - 2023-09-15
+
+### Added
+-Metodos de pagos
+-Lista de ordenes de compra
+-Configurar SuperUsers
+### Fixed
+-Moneda
+-Carrito de compra
+-Login Admin
+### Changed
+-DB config Carrito
+-DB config Pedidos
+-DB config User
+-DB config Stock
+-Themplates
+### Removed
+-Images
+
+
+## [1.2] - 2023-09-25
+
+### Added
+-Metodos de pagos
+-Lista de ordenes de compra
+-Configurar SuperUsers
+### Fixed
+-Moneda
+-Carrito de compra
+-Login Admin
+### Changed
+-DB config Carrito
+-DB config Pedidos
+-DB config User
+-DB config Stock
+-Themplates
+### Removed
+-Images
+
+
+
+
 
 
 
