@@ -56,7 +56,7 @@
 -Configurar Image
 
 
-## [1.2] - 2023-09-15
+## [1.3] - 2023-09-15
 
 ### Added
 -Metodos de pagos
@@ -76,7 +76,7 @@
 -Images
 
 
-## [1.2] - 2023-09-25
+## [1.4] - 2023-09-25
 
 ### Added
 -Metodos de pagos
